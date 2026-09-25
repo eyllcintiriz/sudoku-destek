@@ -1,0 +1,8 @@
+# GitHub Pages ayarı.
+#
+# `theme` olmadan .md dosyaları düz metin olarak görünüyor; bu tema
+# onları okunabilir HTML sayfalarına çeviriyor ve telefonda da düzgün
+# görünüyor (Apple'ın incelemesi sayfayı telefondan açabiliyor).
+theme: jekyll-theme-minimal
+title: Sudoku
+description: Privacy Policy and Support
