@@ -1,8 +1,8 @@
 ---
-title: Privacy Policy — Sudoku
+title: Privacy Policy — Buddoku
 ---
 
-# Privacy Policy — Sudoku
+# Privacy Policy — Buddoku
 
 **Last updated: 23 September 2026**
 
@@ -63,7 +63,7 @@ Questions about this policy: **eylulcintiriz@gmail.com**
 
 ---
 
-# Gizlilik Politikası — Sudoku
+# Gizlilik Politikası — Buddoku
 
 **Son güncelleme: 23 Eylül 2026**
 

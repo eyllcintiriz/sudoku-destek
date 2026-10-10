@@ -1,8 +1,8 @@
 ---
-title: Sudoku
+title: Buddoku
 ---
 
-# Sudoku
+# Buddoku
 
 An iOS puzzle game that teaches you how to solve — no ads, no tracking,
 works offline.
@@ -14,7 +14,7 @@ Contact: **eylulcintiriz@gmail.com**
 
 ---
 
-# Sudoku (Türkçe)
+# Buddoku (Türkçe)
 
 Sudoku çözmeyi öğreten bir iOS bulmaca oyunu — reklam yok, izleme yok,
 çevrimdışı çalışır.

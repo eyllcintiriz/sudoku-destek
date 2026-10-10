@@ -1,4 +1,4 @@
-# Sudoku — destek ve gizlilik sayfaları
+# Buddoku — destek ve gizlilik sayfaları
 
 Bu depo yalnızca App Store'un zorunlu tuttuğu iki sayfayı yayınlar.
 Uygulamanın kaynak kodu burada değil.

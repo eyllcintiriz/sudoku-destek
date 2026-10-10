@@ -1,8 +1,8 @@
 ---
-title: Support — Sudoku
+title: Support — Buddoku
 ---
 
-# Support — Sudoku
+# Support — Buddoku
 
 Questions, bug reports, or ideas: **eylulcintiriz@gmail.com**
 
@@ -59,7 +59,7 @@ inventory, in which case it is used automatically and the app tells you.
 
 ---
 
-# Destek — Sudoku
+# Destek — Buddoku
 
 Soru, hata bildirimi veya öneri: **eylulcintiriz@gmail.com**
 
